@@ -15,31 +15,31 @@ test(test.todo("test manager name"), () => {
     expect(e.mname).toBe(testInput);
 }
 
-//id
-//test the entire test of the id option
-test(test.todo("test manager id"), () => {
-    const testInput = 100;
-    const mtb = new Middata ("Foo", testInput);
-    expect(mtb.mid).toBe(testInput);
-}
+// //id
+// //test the entire test of the id option
+// test(test.todo("test manager id"), () => {
+//     const testInput = 100;
+//     const mtb = new Middata ("Foo", testInput);
+//     expect(mtb.mid).toBe(testInput);
+// }
 
 
-//email
-//test the entire test of the email option
-test(test.todo("test manager email"), () => {
-    const testInput = 1;
-    const e = new Memaildata ("Foo", 1, testInput);
-    expect(e.memail).toBe(testInput);
-}
+// //email
+// //test the entire test of the email option
+// test(test.todo("test manager email"), () => {
+//     const testInput = 1;
+//     const e = new Memaildata ("Foo", 1, testInput);
+//     expect(e.memail).toBe(testInput);
+// }
 
 
-//number
-//test the entire test of the number option
-test(test.todo("test phone number"), () => {
-    const testInput = 1;
-    const mtd = new mnumberdata ("Foo", 1, testInput);
-    expect(mtd.mnumber).toBe(testInput);
-}
+// //number
+// //test the entire test of the number option
+// test(test.todo("test phone number"), () => {
+//     const testInput = 1;
+//     const mtd = new mnumberdata ("Foo", 1, testInput);
+//     expect(mtd.mnumber).toBe(testInput);
+// }
 
 
 
@@ -75,4 +75,3 @@ test(test.todo("test phone number"), () => {
 //     const e = new Employee("Foo", 1, testValue);
 //     expect(e.email).toBe(testValue);
 // });
-

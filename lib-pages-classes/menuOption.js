@@ -7,7 +7,7 @@ class Menu {
     }
 
 
-    
+
 //     //code placeholder to see for writing the test
 //   inquirer.prompt(
 //     {
@@ -25,4 +25,4 @@ class Menu {
 //       }        
 //       else if (answer === 'Exit') {generate() => fs.writeFile('index.html', Roster, (err) =>
 //       err ? console.log(err) : console.log('Successfully created index.html!'));
-//     };
+    };
