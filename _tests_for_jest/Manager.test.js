@@ -1,7 +1,5 @@
 // const Managertest = require('../lib-pages-classes/managerOption');//route to the file
 
-// //const mta note means manager test a and so forth
-
 // //manager object mtz manager test z
 // //test the entire object of manager options
 // test("can test manager object"), () => {
@@ -13,8 +11,8 @@
 //test the entire test of the name option
 test(test.todo("test manager name"), () => {
     const testInput = "ManagerName";
-    const mta = new Mnamedata (mname);
-    expect(mta.mname).toBe(testInput);
+    const e = new Mnamedata (mname);
+    expect(e.mname).toBe(testInput);
 }
 
 //id
@@ -30,8 +28,8 @@ test(test.todo("test manager id"), () => {
 //test the entire test of the email option
 test(test.todo("test manager email"), () => {
     const testInput = 1;
-    const mtc = new Memaildata ("Foo", 1, testInput);
-    expect(mtc.memail).toBe(testInput);
+    const e = new Memaildata ("Foo", 1, testInput);
+    expect(e.memail).toBe(testInput);
 }
 
 

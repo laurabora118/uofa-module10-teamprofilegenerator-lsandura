@@ -7,16 +7,18 @@ class Intern {
         this.ischool = ischool;
     }
 
-function internRoster ({ iname, iid, iemail, ischool }) {
-    `<span class="intern"><div class="card">
-        <div class="container">
-        <div class="intern"><h2 class="ename">Intern Name: ${iname}</h2></div>
-        <div class="information"><h3>Contact Information:</h3></div>
-                <ul class="id">ID: <a>${iid}</a></ul>
-                <ul class="email">Email: <a href="mailto:${iemail}">${iemail}</a></ul>
-                <ul class="number">GitHub: <a>${ischool}</a></ul>
-        </div></div></div></div><span>
-    `;
+
+    //     //code placeholder to see for writing the test
+// function internRoster ({ iname, iid, iemail, ischool }) {
+//     `<span class="intern"><div class="card">
+//         <div class="container">
+//         <div class="intern"><h2 class="ename">Intern Name: ${iname}</h2></div>
+//         <div class="information"><h3>Contact Information:</h3></div>
+//                 <ul class="id">ID: <a>${iid}</a></ul>
+//                 <ul class="email">Email: <a href="mailto:${iemail}">${iemail}</a></ul>
+//                 <ul class="number">GitHub: <a>${ischool}</a></ul>
+//         </div></div></div></div><span>
+//     `;
 
 // function internOption () {
 //     inquirer.prompt( 

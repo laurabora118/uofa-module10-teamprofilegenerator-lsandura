@@ -6,6 +6,9 @@ class Menu {
         this.generate = "exit";
     }
 
+
+    
+//     //code placeholder to see for writing the test
 //   inquirer.prompt(
 //     {
 //     type: 'list',

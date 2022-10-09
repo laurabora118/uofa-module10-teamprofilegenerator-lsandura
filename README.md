@@ -43,16 +43,7 @@ Additional Expectations:
 
 
 Assignment Example 1 Picture:    
-    ![TBD](public/assets/website1.jpg)
-
-Assignment Example 2 Picture:
-    ![TBD](public/assets/website2.jpg)
-
-Assignment Example 3 Picture:
-    ![TBD](public/assets/website3.jpg)
-
-Assignment Example 4 Picture:
-    ![TBD](public/assets/website4.jpg)
+    ![TBD](assets/assets/css/images/)
 
 Git Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/uofa-module10-teamprofilegenerator-lsandura

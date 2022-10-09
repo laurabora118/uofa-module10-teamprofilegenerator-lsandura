@@ -6,6 +6,7 @@ class Engineer {
         this.egithub = egithub;
     }
 
+//     see code plan for writing the test
 // function engineerRoster ({ ename, eid, eemail, egithub }) {
 //         `<span class="engineer"><div class="card">
 //             <div class="container">

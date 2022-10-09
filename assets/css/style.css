@@ -1,5 +1,4 @@
-/* moved file to dis folder for rendered output */
-/* * {
+* {
     box-sizing: border-box;
     text-align: center;
     align-items: center;
@@ -28,8 +27,22 @@
     max-height: 5in;
     position: inherit
   }
+  
+  /* .column {
+        background-color: black;
+        padding: 50px;
+        margin: 5px;
+        text-align: center;
+        font-size: 25px;
+        color: white;
+    }
+    
+  .row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    } */
 
 @media screen and (max-width: 590px) {    
-} */
+}
 
 

@@ -5,7 +5,7 @@ class Manager {
         this.memail = memail;
         this.mphone = mphone;
     }
-
+// //     //code placeholder to see for writing the test
 // function managerRoster ({ mname, mid, memail, mnumber }) {
 //     `<!DOCTYPE html>
 //     <html lang="en">
