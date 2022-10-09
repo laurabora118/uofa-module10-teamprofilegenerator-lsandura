@@ -52,5 +52,6 @@ class Intern {
 //     //  ).then(answer => {internOption = new internOption (answer.iname, answer.iid, answer.iemail, answer.ischool)  
 //     //   .then(() => menuOption()).then(() => console.log('Successfully did intern then sent to menu'))
 //     // })
-// // };
+// // 
+};
 

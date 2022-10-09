@@ -1,4 +1,4 @@
-# uofa-module10-teamprofilegenerator-lsandura
+# git
 Object-Oriented Programming Challenge: Team Profile Generator Bootcamp Module completed by Laura Sandura
 
 Main Objective: 
@@ -26,8 +26,9 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 Additional Expectations:
-    recommended to consider adding validation for user input
-    // assignment tips noted in lesson 10
+    video
+    recommended to consider adding validation for user input in test
+    // assignment tips for folder breakdown
     // It is recommended that you start with a directory structure that looks like this:
     // ├── __tests__/             //jest tests
     // │   ├── Employee.test.js
@@ -43,7 +44,7 @@ Additional Expectations:
 
 
 Assignment Example 1 Picture:    
-    ![TBD](assets/assets/css/images/)
+    ![TBD](assets/images/website1.jpg)
 
 Git Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/uofa-module10-teamprofilegenerator-lsandura
@@ -52,6 +53,7 @@ Git Repository link where finalzed project can be pulled:
 Git Page that shows finalized project results:
     https://laurabora118.github.io/uofa-module10-teamprofilegenerator-lsandura
 
+    https://watch.screencastify.com/v/TF8kaKYI634VDtKvD6MS
 
 How to use, run or deploy a clone:
 
@@ -60,15 +62,15 @@ How to use, run or deploy a clone:
 
 
 Video link of working app deployed: (if applicable)
-    (fill in)
-
+    https://watch.screencastify.com/v/TF8kaKYI634VDtKvD6MS
 
 References:
     1 - Assignment criteria received in UofA assignments
 
     2 - Uses Jest https://jestjs.io/
 
-    3 -
+    3 - Used screen castify to create video link
+
 
 MIT License: 
     ![MIT License](assets/mitlicense.jpg)

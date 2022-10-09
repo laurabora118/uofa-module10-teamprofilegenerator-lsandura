@@ -1,4 +1,4 @@
-// const Managertest = require('../lib-pages-classes/managerOption');//route to the file
+const Managertest = require('../lib-pages-classes/managerOption');//route to the file
 
 // //manager object mtz manager test z
 // //test the entire object of manager options
@@ -10,10 +10,10 @@
 //name
 //test the entire test of the name option
 test(test.todo("test manager name"), () => {
-    const testInput = "ManagerName";
-    const e = new Mnamedata (mname);
+    const mname = "ManagerName";
+    const e = new Managertest (mname);
     expect(e.mname).toBe(testInput);
-}
+});
 
 // //id
 // //test the entire test of the id option

@@ -66,5 +66,5 @@ class Manager {
 //     ).then(answer => {managerOption = new managerOption (answer.mname, answer.mid, answer.memail, answer.mnumber)  
 //     .then(() => console.log('Successfully did manager then sent to menu'))
 //     })
-//   };
+  };
 

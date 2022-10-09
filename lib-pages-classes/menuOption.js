@@ -1,9 +1,9 @@
 class Menu {
-    constructor(managerOption, engineerOption, memail, internOption, generate) {
+    constructor(managerOption, engineerOption, memail, internOption) {
         this.managerOption = "Manager";
         this.engineerOption = "Engineer";
-        this.internOption = "internOption" 
-        this.generate = "exit";
+        this.internOption = "Intern";
+        this.generate = "Exit";
     }
 
 

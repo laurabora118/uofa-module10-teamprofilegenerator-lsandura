@@ -1,3 +1,4 @@
+const Engineertest = require('../lib-pages-classes/engineerOption');
 
 // //const eta note means engineer test a and so forth like an e value
 //intern etz engineer test z
@@ -20,10 +21,10 @@
 // };
 
 test(test.todo("test engineer name"), () => {
-    const testInput = "ManagerName";
-    const e = new Mnamedata (mname);
-    expect(e.mname).toBe(testInput);
-})
+    const ename = "Engineername";
+    const e = new Engineertest (ename);
+    expect(e.ename).toBe(testInput);
+});
 
 // //id
 // //test the entire test of the id option

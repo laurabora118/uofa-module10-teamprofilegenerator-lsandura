@@ -49,7 +49,7 @@ const generateRoster = ({ mname, mid, memail, mphone, ename, eid, eemail, egithu
                               <ul class="id">ID: <a>${iid}</a></ul>
                               <ul class="email">Email: <a href="mailto:${iemail}">${iemail}</a></ul>
                               <ul class="number">GitHub: <a>${ischool}</a></ul>
-            <body/>
+            </body>
 `;
 //removed logic function until working to demonstrate questions for video
 // const start = async() => {
