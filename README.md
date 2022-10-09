@@ -1,4 +1,4 @@
-# git
+# uofa-module10-teamprofilegenerator-lsandura
 Object-Oriented Programming Challenge: Team Profile Generator Bootcamp Module completed by Laura Sandura
 
 Main Objective: 
@@ -44,7 +44,7 @@ Additional Expectations:
 
 
 Assignment Example 1 Picture:    
-    ![TBD](assets/images/website1.jpg)
+    ![example website](assets/images/website1.jpg)
 
 Git Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/uofa-module10-teamprofilegenerator-lsandura
@@ -63,16 +63,19 @@ How to use, run or deploy a clone:
 
 Video link of working app deployed: (if applicable)
     https://watch.screencastify.com/v/TF8kaKYI634VDtKvD6MS
+    
+![Raw mp4 video to watch must download](assets/uofa-module10-teamprofilegenerator-lsandura-video.webmuofa-module10-teamprofilegenerator-lsandura-video.mp4)
+
 
 References:
     1 - Assignment criteria received in UofA assignments
 
-    2 - Uses Jest https://jestjs.io/
+    2 - Uses Jest to run tests https://jestjs.io/
 
     3 - Used screen castify to create video link
 
 
 MIT License: 
-    ![MIT License](assets/mitlicense.jpg)
+    ![MIT License](assets/images/mit.jpg)
 
     
